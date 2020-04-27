@@ -7,7 +7,7 @@ public class empwage{
 		double empWage;
 		
 		double empCheck=Math.floor(Math.random() * 10 ) %2;
-		System.out.println("Welcome to the Employee Use Case problem");
+		System.out.println("Welcome to EmployeeWage Computation");
 
 		if (empCheck==IS_PRESENT){
 			System.out.println("Employee is present");
