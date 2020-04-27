@@ -9,7 +9,7 @@ public class empwage{
 		double monthDays=20;
 		
 		double empCheck=Math.floor(Math.random() * 10 ) %2;
-		System.out.println("EmployeeWage Computation");
+		System.out.println("Welcome to EmployeeWage Computation");
 		
 		switch ((int) empCheck){
 		case 1:
